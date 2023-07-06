@@ -9,4 +9,4 @@ Latihan Pemrograman Web
 -   Jalankan migrasi : php vendor/bin/phoenix migrate
 -   Jalankankan service : php -S localhost:8000
 -   Buka browser : localhost:8000
--   Selamat mengerjakan
+-   Selamat mengerjakann
